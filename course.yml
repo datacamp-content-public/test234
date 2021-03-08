@@ -1,5 +1,12 @@
 title: test234
-description: A description of the course.
+description: >-
+  The basics of modern R will get you far, but sometimes you face complex data
+  and tasks. Programming in tidyverse will help you exactly then -- it will
+  teach you how to do it all with the elegance you have gotten used to with
+  tidyverse. You will be able to convert your tidyverse code into reusable
+  functions, you will add some powerful concepts into your toolset. All this
+  while taking a peek on how are some general skills (like literacy and
+  numeracy) connected with labor market outcomes (like income or unemployment)
+  in the US.
 programming_language: r
 from: 'r-base-prod:v1.0.2'
-#from: 'tidyverse-base-prod:v1.0.2'
